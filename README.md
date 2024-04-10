@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alondracastroval
+-  Hi i'm Alondra :)
 - 👀 I’m interested in using data science and computer science for good :D!
 - Feel free to check out my projects
 
