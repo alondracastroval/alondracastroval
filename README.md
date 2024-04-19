@@ -1,8 +1,10 @@
 -  Hi i'm Alondra (Some people call me Alo) :)
 - 👀 I’m interested in using data science and computer science for good :D!
-- Feel free to check out my projects
+- Feel free to check out my projects 
+- Some stuff about me:
 - Im a HUGE sports fan (Go Astros, Red Sox, Celtics, Texans, Real Madrid, and Houston Dynamo!)
 - I am a really big video game enthusiast and I collect retro stuff!
+- I am always down to talk :) just message me on linkedin!
 
 <!---
 alondracastroval/alondracastroval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
