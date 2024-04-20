@@ -1,5 +1,5 @@
 -  Hi i'm Alondra (Some people call me Alo) :)
-- 👀 I’m interested in using data science and computer science for good :D!
+-  I’m interested in using data science and computer science for good :D!
 - Feel free to check out my projects 
 - Some stuff about me:
 - I'm a HUGE sports fan (Go Astros, Red Sox, Celtics, Texans, Real Madrid, and Houston Dynamo!)
