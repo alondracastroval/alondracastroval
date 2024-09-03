@@ -1,4 +1,3 @@
--  Hi i'm Alondra (Some people call me Alo) :)
 -  I’m interested in using data science and computer science for good :D!
 - Feel free to check out my projects 
 - Some stuff about me:
