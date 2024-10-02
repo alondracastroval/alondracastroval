@@ -18,7 +18,6 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width = "50" height = "50">
-    <img src = "https://images.app.goo.gl/Cp3sfsGJjq7T9MUW8" width = "50" height = "50">
     
     
     
