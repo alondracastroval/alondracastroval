@@ -5,6 +5,10 @@
 - Feel free to check out my projects 
 - I'm a HUGE sports fan (Go Astros, Red Sox, Celtics, Texans, Real Madrid, and Houston Dynamo!)
 - I am a really big video game enthusiast and I collect retro stuff (esp psp stuff :D)!
+
+### Currently working on:
+- NBA Statistics Project
+
 ### My tech stack:
   <div>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "50" height = "50">
@@ -16,8 +20,7 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width = "50" height = "50">
     
     
-    
-    
+
   </div>
 
 <!---
