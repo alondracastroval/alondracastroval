@@ -7,10 +7,14 @@
 - I'm a HUGE sports fan (Go Astros, Red Sox, Celtics, Texans, Real Madrid, and Houston Dynamo!)
 - I am a really big video game enthusiast and I collect retro stuff (esp psp stuff :D)!
 ### My tech stack:
-  - Python
-  - SQL
-  - Java
-  - Racket
+  <div>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "40" height = "40">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "40" height = "40">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width = "40" height = "40">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width = "40" height = "40">
+    
+    
+  </div>
 
 <!---
 alondracastroval/alondracastroval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
