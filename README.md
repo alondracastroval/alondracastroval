@@ -1,3 +1,5 @@
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW15aHJkbzZ2MXZtdWZ4YjRqNGs2bnR2ZGxiODJtMmJ3dHdzOXFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
+
 -  I’m interested in using data science and computer science for good :D!
 - Feel free to check out my projects 
 - Some stuff about me:
