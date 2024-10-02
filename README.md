@@ -6,7 +6,7 @@
 - Some stuff about me:
 - I'm a HUGE sports fan (Go Astros, Red Sox, Celtics, Texans, Real Madrid, and Houston Dynamo!)
 - I am a really big video game enthusiast and I collect retro stuff (esp psp stuff :D)!
-- My tech stack:
+### My tech stack:
   - Python
   - SQL
   - Java
