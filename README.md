@@ -8,10 +8,13 @@
 - I am a really big video game enthusiast and I collect retro stuff (esp psp stuff :D)!
 ### My tech stack:
   <div>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "40" height = "40">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "40" height = "40">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width = "40" height = "40">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width = "40" height = "40">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" width = "50" height = "50">
+    
     
     
   </div>
