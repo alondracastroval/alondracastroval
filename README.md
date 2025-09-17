@@ -7,7 +7,7 @@
 - I am a really big video game enthusiast and I collect retro stuff (esp psp stuff :D)!
 
 ### Currently working on:
-- NBA Statistics Project 🏀
+- Learning R!
 
 ### My tech stack:
   <div>
