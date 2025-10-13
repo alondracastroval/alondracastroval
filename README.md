@@ -13,12 +13,13 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width = "50" height "50" >
     <img src = "https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width = "50" height = "50">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width = "50" height "50" >
+  
     
     
     
