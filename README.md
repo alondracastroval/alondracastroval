@@ -6,7 +6,7 @@
 - I love video games. My favorites are: Death Stranding, Ghost of Tsushima, RDR2, and Rise of the Tomb Raider!
 
 ### Currently working on:
-- Learning R!
+- Learning R, HTML, CSS, and Javascript
 
 ### My tech stack:
   <div>
